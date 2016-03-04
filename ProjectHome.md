@@ -1,0 +1,1 @@
+The program illustrates the usage of the Decorator pattern to enable uniform accses to different kinds of pizzas and dynamicly adding properties to the pizzas.
